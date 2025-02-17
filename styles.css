@@ -211,7 +211,7 @@ body {
 /* Responsive Design */
 @media (max-width: 768px) {
     .navbar .navbar-nav {
-        text-align: right; 
+        text-align: center; 
         width: 100%; 
     }
 
