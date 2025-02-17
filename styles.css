@@ -224,8 +224,6 @@ body {
     }
 
     .hero {
-        padding: 100px 0; /* Reduce padding for mobile */
-        background-size: cover;
         text-align: center;
     }
 
